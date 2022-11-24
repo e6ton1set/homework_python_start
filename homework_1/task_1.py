@@ -2,7 +2,7 @@
 
 number = int(input('Введите цифру от 1 до 7, где 1 - понедельник, 2 - вторник и т.д.: '))
 
-if number <= 5 and number > 0:
+if 1 <= number <= 5:
     print('\nСегодня рабочий день.')
 elif number <= 7:
     print('\nСегодня выходной, ура!')
