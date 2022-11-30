@@ -9,4 +9,3 @@ def sum_float(num):
 result = sum_float(num)
 
 print(f'\nСумма цифр в числе {num} = {result}')
-
