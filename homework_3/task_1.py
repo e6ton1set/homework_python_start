@@ -21,4 +21,11 @@ for i in range(0, len):
 
 print(f'\nСумма элементов списка на нечётных позициях равна {sum}')
 
+# sum_odd = 0
+#     for i in range(1, len(nums), 2):
+#         sum_odd += nums[i]
+
+
+
+
     
